@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YunBiJi</string>
+    <string name="all_article">全部笔记</string>
+    <string name="please_input_phone">请输入手机号</string>
+    <string name="please_input_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="sign">注册</string>
+    <string name="offline">离线模式</string>
+    <string name="please_input_name">请输入用户名</string>
+    <string name="edit">写笔记</string>
+    <string name="insert_pic">插入图片</string>
+    <string name="insert_shipin">插入视频</string>
+    <string name="done">完成</string>
+    <string name="what_name">笔记标题是：</string>
+    <string name="cancel">取消</string>
+    <string name="enter">确认</string>
+    <string name="delete">删除笔记</string>
+    <string name="deleteall">删除</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+</resources>
